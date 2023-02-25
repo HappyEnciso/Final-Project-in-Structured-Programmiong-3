@@ -1,1 +1,1 @@
-# Final-Project-in-Structured-Programmiong-3
+# Final-Project-in-Structured-Programming-3
