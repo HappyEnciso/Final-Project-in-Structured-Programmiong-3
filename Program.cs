@@ -920,6 +920,8 @@ namespace FinalsProgramming
             userChoice1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Please enter your value: ");
             value = Convert.ToDouble(Console.ReadLine());
+
+            //testing
         }
     }
 }
